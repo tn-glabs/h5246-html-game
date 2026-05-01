@@ -1,0 +1,69 @@
+
+guolu.png
+size: 578,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanwu1-1
+  rotate: false
+  xy: 2, 14
+  size: 178, 147
+  orig: 178, 147
+  offset: 0, 0
+  index: -1
+yanwu1-2
+  rotate: true
+  xy: 301, 180
+  size: 178, 212
+  orig: 178, 212
+  offset: 0, 0
+  index: -1
+yanwu1-3
+  rotate: true
+  xy: 301, 360
+  size: 186, 275
+  orig: 186, 275
+  offset: 0, 0
+  index: -1
+yanwu2-1
+  rotate: true
+  xy: 515, 247
+  size: 111, 53
+  orig: 111, 53
+  offset: 0, 0
+  index: -1
+yanwu2-2
+  rotate: true
+  xy: 182, 2
+  size: 159, 97
+  orig: 159, 97
+  offset: 0, 0
+  index: -1
+yanwu2-3
+  rotate: false
+  xy: 301, 44
+  size: 206, 134
+  orig: 206, 134
+  offset: 0, 0
+  index: -1
+yaogang
+  rotate: false
+  xy: 2, 351
+  size: 297, 195
+  orig: 299, 197
+  offset: 1, 1
+  index: -1
+yaogangdi
+  rotate: false
+  xy: 2, 163
+  size: 297, 186
+  orig: 299, 197
+  offset: 1, 1
+  index: -1
+yaoshui
+  rotate: true
+  xy: 515, 78
+  size: 167, 43
+  orig: 167, 43
+  offset: 0, 0
+  index: -1

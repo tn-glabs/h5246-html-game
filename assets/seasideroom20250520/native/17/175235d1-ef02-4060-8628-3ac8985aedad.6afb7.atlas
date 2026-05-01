@@ -1,0 +1,76 @@
+
+penxueji.png
+size: 581,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiti
+  rotate: false
+  xy: 2, 2
+  size: 327, 272
+  orig: 334, 274
+  offset: 1, 1
+  index: -1
+mask
+  rotate: false
+  xy: 506, 148
+  size: 69, 126
+  orig: 334, 274
+  offset: 264, 145
+  index: -1
+xuehua
+  rotate: false
+  xy: 331, 101
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+xuehua1
+  rotate: true
+  xy: 506, 106
+  size: 40, 43
+  orig: 46, 49
+  offset: 3, 3
+  index: -1
+xuehua2
+  rotate: true
+  xy: 510, 50
+  size: 54, 53
+  orig: 60, 59
+  offset: 3, 3
+  index: -1
+xuehua3
+  rotate: false
+  xy: 510, 23
+  size: 26, 25
+  orig: 32, 31
+  offset: 3, 3
+  index: -1
+xuehua4
+  rotate: false
+  xy: 538, 27
+  size: 21, 21
+  orig: 28, 27
+  offset: 4, 3
+  index: -1
+xuehua5
+  rotate: false
+  xy: 538, 6
+  size: 20, 19
+  orig: 26, 25
+  offset: 3, 3
+  index: -1
+xuehua6
+  rotate: false
+  xy: 551, 118
+  size: 28, 28
+  orig: 34, 34
+  offset: 3, 3
+  index: -1
+yaogan
+  rotate: false
+  xy: 331, 5
+  size: 177, 94
+  orig: 179, 96
+  offset: 1, 1
+  index: -1

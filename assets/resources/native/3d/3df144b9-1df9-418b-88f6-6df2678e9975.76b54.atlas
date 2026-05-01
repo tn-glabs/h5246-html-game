@@ -1,0 +1,118 @@
+
+shuqin-xiaomadao.png
+size: 493,418
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuqin
+  rotate: true
+  xy: 2, 89
+  size: 327, 406
+  orig: 329, 408
+  offset: 1, 1
+  index: -1
+xian1
+  rotate: true
+  xy: 300, 12
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+xian10
+  rotate: true
+  xy: 2, 39
+  size: 48, 237
+  orig: 53, 237
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: false
+  xy: 469, 355
+  size: 18, 61
+  orig: 21, 61
+  offset: 0, 0
+  index: -1
+xian3
+  rotate: false
+  xy: 390, 16
+  size: 18, 71
+  orig: 18, 71
+  offset: 0, 0
+  index: -1
+xian4
+  rotate: true
+  xy: 300, 32
+  size: 20, 81
+  orig: 20, 81
+  offset: 0, 0
+  index: -1
+xian5
+  rotate: false
+  xy: 465, 252
+  size: 24, 93
+  orig: 25, 93
+  offset: 0, 0
+  index: -1
+xian6
+  rotate: true
+  xy: 77, 8
+  size: 29, 116
+  orig: 30, 116
+  offset: 0, 0
+  index: -1
+xian7
+  rotate: true
+  xy: 241, 54
+  size: 33, 147
+  orig: 35, 147
+  offset: 0, 0
+  index: -1
+xian8
+  rotate: false
+  xy: 454, 31
+  size: 37, 181
+  orig: 39, 181
+  offset: 0, 0
+  index: -1
+xian9
+  rotate: false
+  xy: 410, 6
+  size: 42, 206
+  orig: 42, 206
+  offset: 0, 0
+  index: -1
+yinfu1
+  rotate: false
+  xy: 410, 214
+  size: 53, 63
+  orig: 55, 65
+  offset: 1, 1
+  index: -1
+yinfu2
+  rotate: true
+  xy: 410, 347
+  size: 69, 57
+  orig: 71, 59
+  offset: 1, 2
+  index: -1
+yinfu3
+  rotate: true
+  xy: 2, 2
+  size: 35, 73
+  orig: 38, 76
+  offset: 1, 2
+  index: -1
+yinfu4
+  rotate: true
+  xy: 410, 279
+  size: 66, 53
+  orig: 68, 55
+  offset: 1, 1
+  index: -1
+yinfu5
+  rotate: true
+  xy: 241, 8
+  size: 44, 57
+  orig: 46, 59
+  offset: 1, 1
+  index: -1

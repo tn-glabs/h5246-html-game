@@ -1,0 +1,41 @@
+
+jingyuxia.png
+size: 2359,1121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hailang
+  rotate: false
+  xy: 2, 2
+  size: 1550, 162
+  orig: 1550, 162
+  offset: 0, 0
+  index: -1
+jingyuhou
+  rotate: false
+  xy: 2, 166
+  size: 2355, 953
+  orig: 2355, 953
+  offset: 0, 0
+  index: -1
+yinfu1
+  rotate: true
+  xy: 1554, 4
+  size: 61, 86
+  orig: 67, 92
+  offset: 3, 3
+  index: -1
+yinfu2
+  rotate: false
+  xy: 1554, 67
+  size: 99, 97
+  orig: 101, 99
+  offset: 1, 1
+  index: -1
+yinfu3
+  rotate: false
+  xy: 1655, 77
+  size: 48, 87
+  orig: 55, 94
+  offset: 3, 4
+  index: -1

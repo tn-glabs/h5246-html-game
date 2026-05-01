@@ -1,0 +1,55 @@
+
+mabayinhe.png
+size: 598,210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ma
+  rotate: true
+  xy: 371, 65
+  size: 143, 126
+  orig: 148, 136
+  offset: 3, 5
+  index: -1
+tanhuang
+  rotate: false
+  xy: 459, 3
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+yinfu1
+  rotate: true
+  xy: 371, 2
+  size: 61, 86
+  orig: 67, 92
+  offset: 2, 3
+  index: -1
+yinfu2
+  rotate: true
+  xy: 499, 109
+  size: 99, 97
+  orig: 101, 99
+  offset: 1, 1
+  index: -1
+yinfu3
+  rotate: false
+  xy: 510, 20
+  size: 48, 87
+  orig: 55, 94
+  offset: 4, 4
+  index: -1
+yinyuehedi
+  rotate: false
+  xy: 2, 3
+  size: 244, 205
+  orig: 252, 210
+  offset: 5, 4
+  index: -1
+yinyueheding
+  rotate: true
+  xy: 248, 18
+  size: 190, 121
+  orig: 198, 123
+  offset: 4, 1
+  index: -1

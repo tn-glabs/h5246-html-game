@@ -1,0 +1,13 @@
+
+dalabahou.png
+size: 375,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b
+  rotate: false
+  xy: 2, 2
+  size: 371, 198
+  orig: 375, 200
+  offset: 2, 1
+  index: -1

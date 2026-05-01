@@ -1,0 +1,55 @@
+
+nanguaguo.png
+size: 652,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiaoban
+  rotate: true
+  xy: 448, 2
+  size: 149, 202
+  orig: 151, 204
+  offset: 1, 1
+  index: -1
+nanguaguo
+  rotate: true
+  xy: 2, 2
+  size: 524, 371
+  orig: 526, 373
+  offset: 1, 1
+  index: -1
+qi1
+  rotate: false
+  xy: 543, 199
+  size: 77, 77
+  orig: 79, 79
+  offset: 1, 1
+  index: -1
+qi2
+  rotate: false
+  xy: 543, 199
+  size: 77, 77
+  orig: 79, 79
+  offset: 1, 1
+  index: -1
+qipao
+  rotate: true
+  xy: 543, 278
+  size: 248, 102
+  orig: 250, 104
+  offset: 1, 1
+  index: -1
+tang
+  rotate: true
+  xy: 448, 153
+  size: 373, 93
+  orig: 373, 93
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 375, 6
+  size: 520, 71
+  orig: 522, 73
+  offset: 1, 1
+  index: -1

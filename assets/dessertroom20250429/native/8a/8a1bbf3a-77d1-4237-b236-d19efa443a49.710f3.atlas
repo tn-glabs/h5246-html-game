@@ -1,0 +1,48 @@
+
+bingqilinji.png
+size: 809,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chukou
+  rotate: false
+  xy: 646, 7
+  size: 126, 47
+  orig: 144, 50
+  offset: 9, 1
+  index: -1
+dizuo
+  rotate: true
+  xy: 2, 2
+  size: 493, 642
+  orig: 495, 644
+  offset: 1, 1
+  index: -1
+guandao
+  rotate: true
+  xy: 646, 258
+  size: 237, 161
+  orig: 239, 164
+  offset: 1, 2
+  index: -1
+houpian
+  rotate: true
+  xy: 758, 90
+  size: 166, 43
+  orig: 168, 45
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 646, 56
+  size: 85, 39
+  orig: 88, 41
+  offset: 1, 1
+  index: -1
+zhijiahou
+  rotate: false
+  xy: 646, 97
+  size: 110, 159
+  orig: 112, 162
+  offset: 1, 1
+  index: -1

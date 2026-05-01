@@ -1,0 +1,69 @@
+
+wanou2.png
+size: 461,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoqing2-1
+  rotate: true
+  xy: 346, 91
+  size: 81, 39
+  orig: 83, 41
+  offset: 1, 1
+  index: -1
+biaoqing2-2
+  rotate: false
+  xy: 249, 103
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+biaoqing2-3
+  rotate: false
+  xy: 387, 64
+  size: 66, 48
+  orig: 69, 50
+  offset: 2, 1
+  index: -1
+shenti2
+  rotate: false
+  xy: 249, 174
+  size: 136, 103
+  orig: 136, 103
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 2, 2
+  size: 245, 275
+  orig: 245, 275
+  offset: 0, 0
+  index: -1
+youjiao2
+  rotate: false
+  xy: 325, 11
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 249, 22
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+zuojiao2
+  rotate: true
+  xy: 387, 114
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 387, 193
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1

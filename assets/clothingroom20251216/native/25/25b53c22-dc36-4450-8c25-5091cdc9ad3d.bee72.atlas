@@ -1,0 +1,13 @@
+
+yundou.png
+size: 60,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qi
+  rotate: false
+  xy: 2, 2
+  size: 56, 54
+  orig: 58, 56
+  offset: 1, 1
+  index: -1

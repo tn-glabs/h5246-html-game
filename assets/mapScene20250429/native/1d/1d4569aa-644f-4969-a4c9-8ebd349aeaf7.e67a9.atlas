@@ -1,0 +1,48 @@
+
+gongyu.png
+size: 333,1029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoqing1
+  rotate: false
+  xy: 2, 960
+  size: 134, 67
+  orig: 136, 69
+  offset: 1, 1
+  index: -1
+biaoqing2
+  rotate: false
+  xy: 138, 949
+  size: 142, 78
+  orig: 146, 80
+  offset: 1, 1
+  index: -1
+gongyu
+  rotate: true
+  xy: 2, 2
+  size: 498, 329
+  orig: 500, 331
+  offset: 1, 1
+  index: -1
+maotou
+  rotate: false
+  xy: 2, 502
+  size: 317, 289
+  orig: 319, 291
+  offset: 1, 1
+  index: -1
+maoweiba
+  rotate: true
+  xy: 2, 817
+  size: 130, 149
+  orig: 130, 149
+  offset: 0, 0
+  index: -1
+maozhua
+  rotate: true
+  xy: 153, 793
+  size: 154, 173
+  orig: 154, 173
+  offset: 0, 0
+  index: -1

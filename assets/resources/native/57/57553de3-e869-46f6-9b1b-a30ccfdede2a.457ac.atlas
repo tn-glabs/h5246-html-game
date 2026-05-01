@@ -1,0 +1,41 @@
+
+diaosu.png
+size: 683,353
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qinxian
+  rotate: true
+  xy: 463, 105
+  size: 246, 218
+  orig: 246, 218
+  offset: 0, 0
+  index: -1
+tianeqin
+  rotate: true
+  xy: 2, 2
+  size: 349, 459
+  orig: 364, 474
+  offset: 7, 8
+  index: -1
+yinfu1
+  rotate: false
+  xy: 564, 17
+  size: 61, 86
+  orig: 67, 92
+  offset: 3, 3
+  index: -1
+yinfu2
+  rotate: false
+  xy: 463, 6
+  size: 99, 97
+  orig: 101, 99
+  offset: 1, 1
+  index: -1
+yinfu3
+  rotate: false
+  xy: 627, 16
+  size: 48, 87
+  orig: 55, 94
+  offset: 3, 4
+  index: -1

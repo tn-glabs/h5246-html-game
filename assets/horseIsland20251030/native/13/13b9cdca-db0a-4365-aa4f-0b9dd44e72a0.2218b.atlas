@@ -1,0 +1,27 @@
+
+muma-xiaomadao.png
+size: 564,327
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizuo
+  rotate: true
+  xy: 456, 82
+  size: 243, 88
+  orig: 245, 90
+  offset: 1, 1
+  index: -1
+muma
+  rotate: false
+  xy: 2, 5
+  size: 452, 320
+  orig: 454, 322
+  offset: 1, 1
+  index: -1
+tanhuang
+  rotate: true
+  xy: 456, 2
+  size: 78, 106
+  orig: 78, 106
+  offset: 0, 0
+  index: -1

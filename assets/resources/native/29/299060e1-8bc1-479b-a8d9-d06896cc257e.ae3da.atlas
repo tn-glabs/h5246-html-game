@@ -1,0 +1,13 @@
+
+guihuo.png
+size: 124,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guihuo
+  rotate: false
+  xy: 2, 2
+  size: 120, 136
+  orig: 120, 136
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+mofashu.png
+size: 590,676
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fazhen1
+  rotate: true
+  xy: 2, 2
+  size: 212, 213
+  orig: 212, 213
+  offset: 0, 0
+  index: -1
+fazhen2
+  rotate: false
+  xy: 217, 29
+  size: 162, 157
+  orig: 172, 167
+  offset: 5, 5
+  index: -1
+fazhen3
+  rotate: false
+  xy: 2, 216
+  size: 332, 152
+  orig: 332, 152
+  offset: 0, 0
+  index: -1
+mofashuguan
+  rotate: true
+  xy: 381, 33
+  size: 153, 166
+  orig: 155, 168
+  offset: 1, 1
+  index: -1
+mofashukai
+  rotate: false
+  xy: 336, 188
+  size: 252, 180
+  orig: 254, 182
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: true
+  xy: 524, 472
+  size: 202, 59
+  orig: 204, 61
+  offset: 1, 1
+  index: -1
+zhijia
+  rotate: true
+  xy: 2, 370
+  size: 304, 520
+  orig: 306, 522
+  offset: 1, 1
+  index: -1

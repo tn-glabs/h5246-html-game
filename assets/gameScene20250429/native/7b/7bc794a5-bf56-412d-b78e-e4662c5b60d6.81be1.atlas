@@ -1,0 +1,13 @@
+
+matong.png
+size: 22,33
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuidi
+  rotate: false
+  xy: 2, 2
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1

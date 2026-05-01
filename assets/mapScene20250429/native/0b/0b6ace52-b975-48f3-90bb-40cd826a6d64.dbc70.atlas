@@ -1,0 +1,55 @@
+
+UI.png
+size: 234,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dujiaoshou
+  rotate: true
+  xy: 85, 2
+  size: 101, 108
+  orig: 105, 111
+  offset: 2, 2
+  index: -1
+gaizi
+  rotate: true
+  xy: 2, 24
+  size: 163, 81
+  orig: 166, 85
+  offset: 2, 2
+  index: -1
+houpian
+  rotate: true
+  xy: 152, 340
+  size: 152, 80
+  orig: 154, 82
+  offset: 1, 1
+  index: -1
+jiandao
+  rotate: false
+  xy: 85, 105
+  size: 65, 82
+  orig: 67, 84
+  offset: 1, 1
+  index: -1
+kuang
+  rotate: true
+  xy: 2, 189
+  size: 303, 148
+  orig: 305, 150
+  offset: 1, 1
+  index: -1
+maoxian
+  rotate: false
+  xy: 152, 106
+  size: 74, 78
+  orig: 85, 88
+  offset: 6, 5
+  index: -1
+qianpian
+  rotate: true
+  xy: 152, 186
+  size: 152, 72
+  orig: 154, 75
+  offset: 1, 1
+  index: -1

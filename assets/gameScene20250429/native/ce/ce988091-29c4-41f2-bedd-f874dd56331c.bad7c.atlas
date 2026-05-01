@@ -1,0 +1,20 @@
+
+lianzi.png
+size: 956,894
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lianziyou
+  rotate: false
+  xy: 2, 2
+  size: 475, 890
+  orig: 475, 890
+  offset: 0, 0
+  index: -1
+lianzizuo
+  rotate: false
+  xy: 479, 2
+  size: 475, 890
+  orig: 475, 890
+  offset: 0, 0
+  index: -1

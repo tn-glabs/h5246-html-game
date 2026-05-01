@@ -1,0 +1,97 @@
+
+daniao.png
+size: 356,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Z
+  rotate: false
+  xy: 259, 198
+  size: 60, 67
+  orig: 67, 73
+  offset: 3, 3
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 133
+  size: 132, 139
+  orig: 132, 139
+  offset: 0, 0
+  index: -1
+shuijiao
+  rotate: true
+  xy: 2, 8
+  size: 39, 43
+  orig: 41, 46
+  offset: 1, 2
+  index: -1
+tou
+  rotate: false
+  xy: 143, 106
+  size: 114, 159
+  orig: 114, 159
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 259, 145
+  size: 95, 51
+  orig: 95, 51
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 259, 113
+  size: 73, 30
+  orig: 76, 32
+  offset: 2, 1
+  index: -1
+yan-sj
+  rotate: true
+  xy: 121, 55
+  size: 76, 20
+  orig: 78, 23
+  offset: 1, 2
+  index: -1
+youjiao
+  rotate: false
+  xy: 47, 16
+  size: 34, 31
+  orig: 36, 33
+  offset: 1, 1
+  index: -1
+youshou
+  rotate: true
+  xy: 143, 2
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 321, 233
+  size: 32, 30
+  orig: 34, 32
+  offset: 1, 1
+  index: -1
+zuojiao
+  rotate: false
+  xy: 83, 16
+  size: 33, 31
+  orig: 36, 33
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 249, 2
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1
+zuoshou-fei
+  rotate: false
+  xy: 2, 49
+  size: 117, 82
+  orig: 117, 82
+  offset: 0, 0
+  index: -1

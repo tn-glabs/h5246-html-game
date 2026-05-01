@@ -1,0 +1,13 @@
+
+youyanji.png
+size: 90,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qi
+  rotate: false
+  xy: 2, 2
+  size: 86, 86
+  orig: 88, 88
+  offset: 1, 1
+  index: -1

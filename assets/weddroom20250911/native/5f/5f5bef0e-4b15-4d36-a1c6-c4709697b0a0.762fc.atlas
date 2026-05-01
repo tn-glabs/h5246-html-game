@@ -1,0 +1,20 @@
+
+huahechengjiqian.png
+size: 516,724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaizi
+  rotate: false
+  xy: 2, 2
+  size: 503, 294
+  orig: 505, 297
+  offset: 1, 2
+  index: -1
+huachengjif
+  rotate: false
+  xy: 2, 298
+  size: 512, 424
+  orig: 514, 427
+  offset: 1, 1
+  index: -1

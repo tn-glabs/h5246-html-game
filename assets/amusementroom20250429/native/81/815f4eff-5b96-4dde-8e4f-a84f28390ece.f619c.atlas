@@ -1,0 +1,13 @@
+
+damuma.png
+size: 619,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+muma
+  rotate: false
+  xy: 2, 2
+  size: 615, 464
+  orig: 700, 500
+  offset: 42, 18
+  index: -1

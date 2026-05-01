@@ -1,0 +1,20 @@
+
+faxingjiqi.png
+size: 443,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guo
+  rotate: false
+  xy: 2, 2
+  size: 310, 223
+  orig: 312, 225
+  offset: 1, 1
+  index: -1
+zhuangtai
+  rotate: true
+  xy: 314, 61
+  size: 164, 127
+  orig: 166, 129
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,62 @@
+
+hudiefei.png
+size: 627,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang_L1
+  rotate: false
+  xy: 413, 58
+  size: 96, 87
+  orig: 98, 89
+  offset: 1, 1
+  index: -1
+chibang_L2
+  rotate: true
+  xy: 511, 15
+  size: 64, 113
+  orig: 66, 116
+  offset: 1, 2
+  index: -1
+chibang_R1
+  rotate: true
+  xy: 511, 81
+  size: 64, 114
+  orig: 66, 116
+  offset: 1, 1
+  index: -1
+chibang_R2
+  rotate: false
+  xy: 320, 50
+  size: 91, 95
+  orig: 94, 98
+  offset: 1, 1
+  index: -1
+shenti1
+  rotate: true
+  xy: 413, 5
+  size: 51, 78
+  orig: 53, 80
+  offset: 1, 1
+  index: -1
+shenti2
+  rotate: true
+  xy: 320, 4
+  size: 44, 80
+  orig: 47, 82
+  offset: 2, 1
+  index: -1
+xian1
+  rotate: false
+  xy: 2, 2
+  size: 157, 143
+  orig: 157, 143
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: false
+  xy: 161, 6
+  size: 157, 139
+  orig: 157, 139
+  offset: 0, 0
+  index: -1

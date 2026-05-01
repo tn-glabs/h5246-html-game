@@ -1,0 +1,41 @@
+
+fazhang.png
+size: 1813,338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing
+  rotate: false
+  xy: 2, 2
+  size: 1057, 334
+  orig: 1060, 337
+  offset: 2, 1
+  index: -1
+mofazhang1
+  rotate: false
+  xy: 1332, 42
+  size: 207, 294
+  orig: 209, 296
+  offset: 1, 1
+  index: -1
+mofazhang2
+  rotate: false
+  xy: 1061, 49
+  size: 269, 287
+  orig: 272, 289
+  offset: 2, 1
+  index: -1
+mofazhang3
+  rotate: true
+  xy: 1541, 7
+  size: 127, 270
+  orig: 129, 272
+  offset: 1, 1
+  index: -1
+mofazhang4
+  rotate: true
+  xy: 1541, 136
+  size: 200, 262
+  orig: 202, 264
+  offset: 1, 1
+  index: -1

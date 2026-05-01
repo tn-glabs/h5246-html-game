@@ -1,0 +1,55 @@
+
+tuzimaozi.png
+size: 516,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erduo-L
+  rotate: false
+  xy: 372, 4
+  size: 61, 130
+  orig: 61, 130
+  offset: 0, 0
+  index: -1
+erduo-R
+  rotate: false
+  xy: 173, 15
+  size: 104, 119
+  orig: 104, 119
+  offset: 0, 0
+  index: -1
+maozihou
+  rotate: true
+  xy: 435, 2
+  size: 132, 48
+  orig: 138, 51
+  offset: 5, 2
+  index: -1
+maoziqian
+  rotate: false
+  xy: 2, 3
+  size: 169, 131
+  orig: 173, 137
+  offset: 4, 1
+  index: -1
+shou-L
+  rotate: true
+  xy: 485, 53
+  size: 38, 29
+  orig: 45, 36
+  offset: 3, 3
+  index: -1
+shou-R
+  rotate: true
+  xy: 485, 93
+  size: 41, 27
+  orig: 47, 34
+  offset: 3, 4
+  index: -1
+tou
+  rotate: true
+  xy: 279, 6
+  size: 128, 91
+  orig: 128, 91
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+laba.png
+size: 835,550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laba
+  rotate: true
+  xy: 2, 2
+  size: 546, 728
+  orig: 546, 728
+  offset: 0, 0
+  index: -1
+yinfu1
+  rotate: false
+  xy: 732, 319
+  size: 81, 105
+  orig: 84, 109
+  offset: 2, 2
+  index: -1
+yinfu2
+  rotate: true
+  xy: 732, 426
+  size: 122, 101
+  orig: 125, 103
+  offset: 2, 1
+  index: -1
+yinfu3
+  rotate: false
+  xy: 732, 221
+  size: 71, 96
+  orig: 73, 98
+  offset: 1, 1
+  index: -1

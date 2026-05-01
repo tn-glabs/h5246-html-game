@@ -1,0 +1,90 @@
+
+youling.png
+size: 469,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+emo1
+  rotate: false
+  xy: 309, 290
+  size: 156, 58
+  orig: 156, 58
+  offset: 0, 0
+  index: -1
+emo2
+  rotate: true
+  xy: 403, 199
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+emo3
+  rotate: true
+  xy: 398, 110
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1
+emo4
+  rotate: false
+  xy: 2, 257
+  size: 305, 272
+  orig: 305, 272
+  offset: 0, 0
+  index: -1
+emo5
+  rotate: false
+  xy: 309, 204
+  size: 92, 84
+  orig: 92, 84
+  offset: 0, 0
+  index: -1
+tianshi1
+  rotate: true
+  xy: 393, 49
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+tianshi2
+  rotate: true
+  xy: 420, 388
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+tianshi3
+  rotate: true
+  xy: 309, 116
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+tianshi4
+  rotate: false
+  xy: 309, 442
+  size: 113, 87
+  orig: 115, 90
+  offset: 1, 2
+  index: -1
+tianshi5
+  rotate: false
+  xy: 2, 2
+  size: 305, 253
+  orig: 305, 272
+  offset: 0, 0
+  index: -1
+tianshi6
+  rotate: true
+  xy: 309, 24
+  size: 90, 82
+  orig: 92, 84
+  offset: 1, 1
+  index: -1
+tianshi7
+  rotate: true
+  xy: 309, 350
+  size: 90, 109
+  orig: 90, 109
+  offset: 0, 0
+  index: -1

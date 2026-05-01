@@ -1,0 +1,76 @@
+
+xiangjiaohou.png
+size: 408,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 519
+  size: 243, 301
+  orig: 243, 301
+  offset: 0, 0
+  index: -1
+xiangjiaohou
+  rotate: false
+  xy: 2, 384
+  size: 286, 133
+  orig: 286, 133
+  offset: 0, 0
+  index: -1
+xiangjiaopi1
+  rotate: true
+  xy: 2, 44
+  size: 142, 201
+  orig: 149, 201
+  offset: 0, 0
+  index: -1
+xiangjiaopi2
+  rotate: true
+  xy: 2, 188
+  size: 194, 220
+  orig: 194, 220
+  offset: 0, 0
+  index: -1
+xiangjiaopi3
+  rotate: true
+  xy: 224, 150
+  size: 168, 182
+  orig: 168, 182
+  offset: 0, 0
+  index: -1
+xiangjiaozhong
+  rotate: false
+  xy: 2, 764
+  size: 400, 254
+  orig: 400, 254
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 290, 320
+  size: 146, 113
+  orig: 146, 113
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 305, 616
+  size: 146, 93
+  orig: 146, 93
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: true
+  xy: 205, 2
+  size: 146, 113
+  orig: 146, 113
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: true
+  xy: 305, 468
+  size: 146, 93
+  orig: 146, 93
+  offset: 0, 0
+  index: -1

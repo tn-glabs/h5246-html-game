@@ -1,0 +1,62 @@
+
+huapen.png
+size: 511,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huaduo
+  rotate: true
+  xy: 342, 19
+  size: 154, 158
+  orig: 156, 161
+  offset: 1, 2
+  index: -1
+huapen
+  rotate: false
+  xy: 256, 353
+  size: 222, 197
+  orig: 224, 199
+  offset: 1, 1
+  index: -1
+tengwan1
+  rotate: false
+  xy: 342, 175
+  size: 167, 176
+  orig: 210, 254
+  offset: 43, 73
+  index: -1
+tengwan2
+  rotate: true
+  xy: 176, 86
+  size: 224, 164
+  orig: 224, 181
+  offset: 0, 0
+  index: -1
+tengwan3
+  rotate: false
+  xy: 2, 2
+  size: 172, 308
+  orig: 172, 353
+  offset: 0, 45
+  index: -1
+tengwan4
+  rotate: false
+  xy: 255, 19
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+tengwan5
+  rotate: false
+  xy: 176, 12
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+youling
+  rotate: false
+  xy: 2, 312
+  size: 252, 238
+  orig: 254, 240
+  offset: 1, 1
+  index: -1

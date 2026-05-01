@@ -1,0 +1,27 @@
+
+bengchuang.png
+size: 718,1100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bengchuang
+  rotate: true
+  xy: 463, 2
+  size: 535, 243
+  orig: 535, 243
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 2, 15
+  size: 1083, 459
+  orig: 1085, 461
+  offset: 1, 1
+  index: -1
+guding
+  rotate: true
+  xy: 463, 539
+  size: 559, 253
+  orig: 561, 256
+  offset: 1, 2
+  index: -1

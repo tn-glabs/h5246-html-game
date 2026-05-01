@@ -1,0 +1,48 @@
+
+lanzi.png
+size: 590,342
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuifengji
+  rotate: true
+  xy: 437, 161
+  size: 179, 142
+  orig: 181, 144
+  offset: 1, 1
+  index: -1
+jiandao
+  rotate: false
+  xy: 314, 2
+  size: 153, 112
+  orig: 155, 115
+  offset: 1, 2
+  index: -1
+lanzihou
+  rotate: true
+  xy: 170, 52
+  size: 288, 142
+  orig: 291, 144
+  offset: 1, 1
+  index: -1
+lanziqian
+  rotate: true
+  xy: 2, 44
+  size: 296, 166
+  orig: 300, 168
+  offset: 2, 1
+  index: -1
+zhenzhu1
+  rotate: true
+  xy: 469, 21
+  size: 138, 119
+  orig: 138, 119
+  offset: 0, 0
+  index: -1
+zhenzhu2
+  rotate: true
+  xy: 314, 116
+  size: 224, 121
+  orig: 224, 121
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+qingting.png
+size: 138,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qingting1-chibangyou
+  rotate: true
+  xy: 84, 109
+  size: 96, 52
+  orig: 103, 52
+  offset: 7, 0
+  index: -1
+qingting1-chibangzuo
+  rotate: true
+  xy: 2, 24
+  size: 92, 63
+  orig: 92, 63
+  offset: 0, 0
+  index: -1
+qingting1-shenti
+  rotate: false
+  xy: 2, 207
+  size: 129, 84
+  orig: 129, 84
+  offset: 0, 0
+  index: -1
+qingting2-chibangyou
+  rotate: false
+  xy: 67, 56
+  size: 66, 51
+  orig: 67, 52
+  offset: 0, 1
+  index: -1
+qingting2-chibangzuo
+  rotate: true
+  xy: 67, 2
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+qingting2-shenti
+  rotate: false
+  xy: 2, 118
+  size: 80, 87
+  orig: 80, 87
+  offset: 0, 0
+  index: -1

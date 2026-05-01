@@ -1,0 +1,55 @@
+
+shanhaijing.png
+size: 930,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingb
+  rotate: true
+  xy: 2, 5
+  size: 526, 395
+  orig: 528, 397
+  offset: 1, 1
+  index: -1
+jingf
+  rotate: false
+  xy: 399, 250
+  size: 526, 281
+  orig: 528, 283
+  offset: 1, 1
+  index: -1
+mutou
+  rotate: false
+  xy: 399, 7
+  size: 214, 241
+  orig: 214, 241
+  offset: 0, 0
+  index: -1
+mutoul
+  rotate: false
+  xy: 803, 2
+  size: 77, 89
+  orig: 77, 89
+  offset: 0, 0
+  index: -1
+mutour
+  rotate: false
+  xy: 803, 93
+  size: 120, 155
+  orig: 122, 157
+  offset: 1, 1
+  index: -1
+queen
+  rotate: false
+  xy: 615, 51
+  size: 186, 197
+  orig: 186, 197
+  offset: 0, 0
+  index: -1
+queen-handr
+  rotate: true
+  xy: 882, 21
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1

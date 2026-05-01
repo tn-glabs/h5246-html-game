@@ -1,0 +1,132 @@
+
+zhuanchang.png
+size: 968,634
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 908, 387
+  size: 35, 45
+  orig: 37, 53
+  offset: 1, 7
+  index: -1
+02
+  rotate: true
+  xy: 544, 241
+  size: 61, 94
+  orig: 63, 100
+  offset: 1, 5
+  index: -1
+03
+  rotate: true
+  xy: 841, 11
+  size: 104, 108
+  orig: 124, 110
+  offset: 1, 1
+  index: -1
+04
+  rotate: false
+  xy: 654, 2
+  size: 185, 108
+  orig: 189, 110
+  offset: 1, 1
+  index: -1
+05
+  rotate: true
+  xy: 544, 15
+  size: 210, 108
+  orig: 215, 110
+  offset: 1, 1
+  index: -1
+06
+  rotate: false
+  xy: 544, 524
+  size: 252, 108
+  orig: 254, 110
+  offset: 1, 1
+  index: -1
+07
+  rotate: false
+  xy: 544, 414
+  size: 252, 108
+  orig: 254, 110
+  offset: 1, 1
+  index: -1
+09
+  rotate: true
+  xy: 798, 227
+  size: 252, 108
+  orig: 254, 110
+  offset: 1, 1
+  index: -1
+10
+  rotate: false
+  xy: 544, 304
+  size: 252, 108
+  orig: 254, 110
+  offset: 1, 1
+  index: -1
+11-1
+  rotate: true
+  xy: 935, 469
+  size: 53, 26
+  orig: 69, 33
+  offset: 1, 1
+  index: -1
+11-2
+  rotate: true
+  xy: 654, 112
+  size: 190, 108
+  orig: 199, 110
+  offset: 8, 1
+  index: -1
+12
+  rotate: false
+  xy: 764, 117
+  size: 176, 108
+  orig: 178, 110
+  offset: 1, 1
+  index: -1
+13
+  rotate: false
+  xy: 798, 524
+  size: 159, 108
+  orig: 164, 110
+  offset: 4, 1
+  index: -1
+14-1
+  rotate: false
+  xy: 798, 481
+  size: 135, 41
+  orig: 137, 46
+  offset: 1, 4
+  index: -1
+14-2
+  rotate: false
+  xy: 908, 309
+  size: 41, 76
+  orig: 48, 78
+  offset: 6, 1
+  index: -1
+15-1
+  rotate: false
+  xy: 908, 446
+  size: 58, 21
+  orig: 60, 23
+  offset: 1, 1
+  index: -1
+15-2
+  rotate: true
+  xy: 908, 424
+  size: 20, 51
+  orig: 28, 54
+  offset: 7, 1
+  index: -1
+bg
+  rotate: true
+  xy: 2, 2
+  size: 630, 540
+  orig: 630, 540
+  offset: 0, 0
+  index: -1

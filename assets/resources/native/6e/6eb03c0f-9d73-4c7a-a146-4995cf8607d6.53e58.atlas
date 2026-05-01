@@ -1,0 +1,83 @@
+
+shayu.png
+size: 998,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 5
+  size: 493, 301
+  orig: 493, 301
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 676, 162
+  size: 121, 144
+  orig: 121, 144
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 497, 55
+  size: 177, 251
+  orig: 177, 251
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: false
+  xy: 856, 5
+  size: 140, 156
+  orig: 140, 156
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 676, 67
+  size: 88, 93
+  orig: 90, 95
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: false
+  xy: 799, 163
+  size: 89, 62
+  orig: 91, 64
+  offset: 1, 1
+  index: -1
+yan3
+  rotate: false
+  xy: 766, 67
+  size: 88, 93
+  orig: 90, 95
+  offset: 1, 1
+  index: -1
+zui1
+  rotate: false
+  xy: 673, 8
+  size: 131, 45
+  orig: 133, 47
+  offset: 1, 1
+  index: -1
+zui2
+  rotate: false
+  xy: 497, 2
+  size: 174, 51
+  orig: 176, 53
+  offset: 1, 1
+  index: -1
+zui3
+  rotate: false
+  xy: 806, 227
+  size: 169, 79
+  orig: 171, 156
+  offset: 1, 1
+  index: -1
+zui4
+  rotate: true
+  xy: 890, 169
+  size: 56, 67
+  orig: 107, 147
+  offset: 50, 1
+  index: -1

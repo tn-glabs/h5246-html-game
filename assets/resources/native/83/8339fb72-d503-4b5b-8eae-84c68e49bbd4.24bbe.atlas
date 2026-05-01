@@ -1,0 +1,118 @@
+
+beijixiong.png
+size: 353,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bitipao
+  rotate: false
+  xy: 279, 351
+  size: 34, 42
+  orig: 40, 49
+  offset: 3, 4
+  index: -1
+hua
+  rotate: false
+  xy: 221, 102
+  size: 67, 58
+  orig: 73, 64
+  offset: 3, 3
+  index: -1
+jiao1
+  rotate: true
+  xy: 2, 2
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 86, 3
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+jiao3
+  rotate: false
+  xy: 178, 3
+  size: 87, 90
+  orig: 87, 90
+  offset: 0, 0
+  index: -1
+kaixin1
+  rotate: true
+  xy: 234, 344
+  size: 45, 43
+  orig: 47, 45
+  offset: 1, 1
+  index: -1
+kaixin2
+  rotate: true
+  xy: 189, 343
+  size: 46, 43
+  orig: 48, 45
+  offset: 1, 1
+  index: -1
+kaixinbiaoqing
+  rotate: true
+  xy: 269, 395
+  size: 144, 78
+  orig: 146, 80
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 95
+  size: 220, 155
+  orig: 220, 155
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 267, 6
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 239, 248
+  size: 94, 82
+  orig: 94, 82
+  offset: 0, 0
+  index: -1
+shuijiaobiaoqing
+  rotate: true
+  xy: 159, 162
+  size: 153, 78
+  orig: 155, 80
+  offset: 1, 1
+  index: -1
+shuijioa1
+  rotate: false
+  xy: 239, 169
+  size: 88, 77
+  orig: 91, 79
+  offset: 1, 1
+  index: -1
+shuijioa2
+  rotate: true
+  xy: 159, 95
+  size: 65, 60
+  orig: 67, 62
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 2, 317
+  size: 222, 185
+  orig: 222, 185
+  offset: 0, 0
+  index: -1
+wuguan
+  rotate: true
+  xy: 189, 391
+  size: 148, 78
+  orig: 150, 80
+  offset: 1, 1
+  index: -1

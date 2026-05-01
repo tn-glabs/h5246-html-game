@@ -1,0 +1,55 @@
+
+yaoyaoche.png
+size: 1153,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yaoyaoche1-di
+  rotate: false
+  xy: 833, 2
+  size: 231, 85
+  orig: 233, 87
+  offset: 1, 1
+  index: -1
+yaoyaoche1-hou
+  rotate: true
+  xy: 694, 39
+  size: 234, 137
+  orig: 236, 139
+  offset: 1, 1
+  index: -1
+yaoyaoche1-qian
+  rotate: false
+  xy: 2, 3
+  size: 395, 270
+  orig: 397, 273
+  offset: 1, 2
+  index: -1
+yaoyaoche1-tanhuang
+  rotate: false
+  xy: 984, 174
+  size: 72, 99
+  orig: 74, 101
+  offset: 1, 1
+  index: -1
+yaoyaoche2-di
+  rotate: true
+  xy: 1066, 42
+  size: 231, 85
+  orig: 233, 87
+  offset: 1, 1
+  index: -1
+yaoyaoche2-hou
+  rotate: true
+  xy: 833, 89
+  size: 184, 149
+  orig: 186, 151
+  offset: 1, 1
+  index: -1
+yaoyaoche2-qian
+  rotate: true
+  xy: 399, 6
+  size: 267, 293
+  orig: 280, 321
+  offset: 12, 5
+  index: -1

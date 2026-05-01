@@ -1,0 +1,27 @@
+
+fangche.png
+size: 1478,447
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hou
+  rotate: false
+  xy: 2, 2
+  size: 551, 443
+  orig: 553, 446
+  offset: 1, 2
+  index: -1
+qian
+  rotate: false
+  xy: 555, 42
+  size: 507, 403
+  orig: 509, 405
+  offset: 1, 1
+  index: -1
+zhong
+  rotate: false
+  xy: 1064, 33
+  size: 412, 412
+  orig: 416, 416
+  offset: 2, 2
+  index: -1

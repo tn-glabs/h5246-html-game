@@ -1,0 +1,55 @@
+
+meifaji.png
+size: 983,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: true
+  xy: 910, 258
+  size: 101, 71
+  orig: 103, 73
+  offset: 1, 1
+  index: -1
+green
+  rotate: true
+  xy: 910, 155
+  size: 101, 71
+  orig: 103, 73
+  offset: 1, 1
+  index: -1
+jiqi1
+  rotate: true
+  xy: 2, 2
+  size: 357, 668
+  orig: 359, 669
+  offset: 1, 1
+  index: -1
+kuang
+  rotate: false
+  xy: 672, 146
+  size: 236, 213
+  orig: 238, 215
+  offset: 1, 1
+  index: -1
+left
+  rotate: false
+  xy: 672, 4
+  size: 111, 140
+  orig: 113, 142
+  offset: 1, 1
+  index: -1
+off
+  rotate: true
+  xy: 898, 43
+  size: 101, 71
+  orig: 103, 73
+  offset: 1, 1
+  index: -1
+right
+  rotate: false
+  xy: 785, 4
+  size: 111, 140
+  orig: 113, 142
+  offset: 1, 1
+  index: -1

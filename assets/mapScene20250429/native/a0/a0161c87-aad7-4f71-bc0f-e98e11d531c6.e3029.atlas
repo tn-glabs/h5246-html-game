@@ -1,0 +1,97 @@
+
+maoxianwu.png
+size: 684,405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bashou
+  rotate: true
+  xy: 628, 68
+  size: 64, 54
+  orig: 66, 56
+  offset: 1, 1
+  index: -1
+fuzhuangdian
+  rotate: false
+  xy: 2, 2
+  size: 427, 401
+  orig: 429, 403
+  offset: 1, 1
+  index: -1
+gaoguang
+  rotate: false
+  xy: 600, 17
+  size: 49, 49
+  orig: 51, 51
+  offset: 1, 1
+  index: -1
+lun
+  rotate: false
+  xy: 431, 104
+  size: 137, 140
+  orig: 137, 140
+  offset: 0, 0
+  index: -1
+maoxian1
+  rotate: true
+  xy: 651, 30
+  size: 36, 21
+  orig: 38, 23
+  offset: 1, 1
+  index: -1
+maoxian2
+  rotate: false
+  xy: 431, 55
+  size: 139, 47
+  orig: 139, 47
+  offset: 0, 0
+  index: -1
+maoxianqiu
+  rotate: false
+  xy: 431, 246
+  size: 143, 157
+  orig: 145, 159
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 576, 281
+  size: 92, 122
+  orig: 94, 124
+  offset: 1, 1
+  index: -1
+xian1
+  rotate: false
+  xy: 576, 222
+  size: 99, 57
+  orig: 99, 58
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: true
+  xy: 570, 104
+  size: 116, 56
+  orig: 117, 58
+  offset: 0, 1
+  index: -1
+xian3
+  rotate: false
+  xy: 431, 7
+  size: 167, 46
+  orig: 167, 46
+  offset: 0, 0
+  index: -1
+xian4
+  rotate: true
+  xy: 628, 134
+  size: 86, 37
+  orig: 88, 40
+  offset: 2, 2
+  index: -1
+zhen
+  rotate: false
+  xy: 572, 68
+  size: 22, 34
+  orig: 28, 40
+  offset: 3, 3
+  index: -1

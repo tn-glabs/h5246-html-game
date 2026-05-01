@@ -1,0 +1,41 @@
+
+diaoxiang.png
+size: 795,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diaoxiang
+  rotate: false
+  xy: 2, 2
+  size: 575, 571
+  orig: 577, 744
+  offset: 1, 172
+  index: -1
+shui
+  rotate: false
+  xy: 579, 184
+  size: 125, 389
+  orig: 125, 389
+  offset: 0, 0
+  index: -1
+shuihua1
+  rotate: true
+  xy: 706, 418
+  size: 155, 87
+  orig: 157, 91
+  offset: 1, 2
+  index: -1
+shuihua2
+  rotate: false
+  xy: 579, 94
+  size: 195, 88
+  orig: 199, 90
+  offset: 2, 1
+  index: -1
+shuihua3
+  rotate: false
+  xy: 579, 5
+  size: 167, 87
+  orig: 170, 89
+  offset: 1, 1
+  index: -1

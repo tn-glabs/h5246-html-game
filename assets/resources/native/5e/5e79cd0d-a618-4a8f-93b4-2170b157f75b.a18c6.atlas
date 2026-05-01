@@ -1,0 +1,48 @@
+
+bayinhe.png
+size: 504,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dipan
+  rotate: false
+  xy: 287, 71
+  size: 147, 58
+  orig: 155, 68
+  offset: 4, 4
+  index: -1
+gaiziguan
+  rotate: false
+  xy: 287, 18
+  size: 149, 51
+  orig: 155, 58
+  offset: 3, 3
+  index: -1
+gaizikai
+  rotate: true
+  xy: 191, 10
+  size: 119, 94
+  orig: 125, 100
+  offset: 3, 3
+  index: -1
+texiao
+  rotate: false
+  xy: 2, 2
+  size: 187, 127
+  orig: 187, 130
+  offset: 0, 0
+  index: -1
+yaogan1
+  rotate: false
+  xy: 436, 88
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+yaogan2
+  rotate: true
+  xy: 438, 20
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+huaduohou.png
+size: 246,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai1
+  rotate: true
+  xy: 147, 86
+  size: 123, 97
+  orig: 125, 100
+  offset: 1, 2
+  index: -1
+bai2
+  rotate: true
+  xy: 2, 72
+  size: 137, 143
+  orig: 139, 145
+  offset: 1, 1
+  index: -1
+huagan2
+  rotate: true
+  xy: 2, 2
+  size: 68, 167
+  orig: 68, 167
+  offset: 0, 0
+  index: -1

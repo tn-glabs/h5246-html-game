@@ -1,0 +1,27 @@
+
+kongtiaofeng.png
+size: 1088,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kongtiaofeng1
+  rotate: false
+  xy: 726, 2
+  size: 360, 195
+  orig: 360, 195
+  offset: 0, 0
+  index: -1
+kongtiaofeng2
+  rotate: false
+  xy: 2, 2
+  size: 360, 195
+  orig: 360, 195
+  offset: 0, 0
+  index: -1
+kongtiaofeng3
+  rotate: false
+  xy: 364, 2
+  size: 360, 195
+  orig: 360, 195
+  offset: 0, 0
+  index: -1

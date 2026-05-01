@@ -1,0 +1,55 @@
+
+fengrenji.png
+size: 689,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+31806
+  rotate: true
+  xy: 2, 2
+  size: 264, 157
+  orig: 264, 157
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 347, 159
+  size: 340, 107
+  orig: 340, 107
+  offset: 0, 0
+  index: -1
+gan
+  rotate: false
+  xy: 161, 17
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+ji
+  rotate: false
+  xy: 161, 46
+  size: 184, 220
+  orig: 184, 220
+  offset: 0, 0
+  index: -1
+jiqif
+  rotate: true
+  xy: 473, 67
+  size: 90, 194
+  orig: 90, 195
+  offset: 0, 1
+  index: -1
+lun
+  rotate: false
+  xy: 347, 14
+  size: 124, 143
+  orig: 124, 143
+  offset: 0, 0
+  index: -1
+qi
+  rotate: true
+  xy: 473, 9
+  size: 56, 54
+  orig: 58, 56
+  offset: 1, 1
+  index: -1

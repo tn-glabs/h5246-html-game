@@ -1,0 +1,27 @@
+
+lifadian.png
+size: 769,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiandaoshang
+  rotate: false
+  xy: 467, 210
+  size: 226, 232
+  orig: 232, 238
+  offset: 3, 3
+  index: -1
+jiandaoxia
+  rotate: false
+  xy: 467, 114
+  size: 300, 94
+  orig: 306, 100
+  offset: 3, 3
+  index: -1
+lifadian
+  rotate: true
+  xy: 2, 2
+  size: 440, 463
+  orig: 442, 465
+  offset: 1, 1
+  index: -1

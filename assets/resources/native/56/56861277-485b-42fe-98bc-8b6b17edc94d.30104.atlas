@@ -1,0 +1,76 @@
+
+miluqian.png
+size: 1458,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houtuiL
+  rotate: false
+  xy: 1104, 124
+  size: 83, 126
+  orig: 83, 126
+  offset: 0, 0
+  index: -1
+houtuiR
+  rotate: true
+  xy: 829, 4
+  size: 75, 122
+  orig: 75, 122
+  offset: 0, 0
+  index: -1
+lianziqian
+  rotate: false
+  xy: 674, 252
+  size: 519, 162
+  orig: 519, 162
+  offset: 0, 0
+  index: -1
+qian
+  rotate: false
+  xy: 2, 7
+  size: 670, 407
+  orig: 672, 409
+  offset: 1, 1
+  index: -1
+qiantuiL
+  rotate: true
+  xy: 1104, 25
+  size: 80, 121
+  orig: 80, 121
+  offset: 0, 0
+  index: -1
+qiantuiR
+  rotate: true
+  xy: 1227, 24
+  size: 81, 121
+  orig: 81, 121
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 829, 81
+  size: 273, 169
+  orig: 273, 169
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1195, 107
+  size: 307, 261
+  orig: 309, 263
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: false
+  xy: 953, 18
+  size: 63, 61
+  orig: 65, 63
+  offset: 1, 1
+  index: -1
+weijin
+  rotate: true
+  xy: 674, 2
+  size: 248, 153
+  orig: 250, 155
+  offset: 1, 1
+  index: -1

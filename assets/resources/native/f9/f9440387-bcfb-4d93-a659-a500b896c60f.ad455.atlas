@@ -1,0 +1,48 @@
+
+shuiqiang.png
+size: 307,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuidi1
+  rotate: false
+  xy: 221, 5
+  size: 84, 31
+  orig: 87, 34
+  offset: 2, 2
+  index: -1
+shuidi2
+  rotate: true
+  xy: 221, 81
+  size: 84, 32
+  orig: 86, 34
+  offset: 1, 1
+  index: -1
+shuidi3
+  rotate: false
+  xy: 221, 38
+  size: 66, 41
+  orig: 68, 44
+  offset: 1, 2
+  index: -1
+shuidi4
+  rotate: false
+  xy: 255, 138
+  size: 46, 27
+  orig: 48, 29
+  offset: 1, 1
+  index: -1
+shuidi5
+  rotate: false
+  xy: 255, 102
+  size: 39, 34
+  orig: 41, 37
+  offset: 1, 2
+  index: -1
+shuiqiang
+  rotate: false
+  xy: 2, 2
+  size: 217, 163
+  orig: 219, 166
+  offset: 1, 2
+  index: -1

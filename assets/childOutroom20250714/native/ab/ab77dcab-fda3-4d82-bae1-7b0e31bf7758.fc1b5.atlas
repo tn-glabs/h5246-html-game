@@ -1,0 +1,34 @@
+
+paopaoji.png
+size: 838,369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paopao1
+  rotate: true
+  xy: 737, 250
+  size: 117, 99
+  orig: 119, 101
+  offset: 1, 1
+  index: -1
+paopao2
+  rotate: true
+  xy: 737, 204
+  size: 44, 45
+  orig: 48, 48
+  offset: 1, 2
+  index: -1
+paopaoji1
+  rotate: true
+  xy: 2, 14
+  size: 353, 435
+  orig: 353, 435
+  offset: 0, 0
+  index: -1
+paopaoji2
+  rotate: false
+  xy: 439, 2
+  size: 296, 365
+  orig: 296, 365
+  offset: 0, 0
+  index: -1

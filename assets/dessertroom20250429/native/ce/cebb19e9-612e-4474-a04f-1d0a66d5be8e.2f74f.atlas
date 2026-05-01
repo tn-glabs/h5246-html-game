@@ -1,0 +1,55 @@
+
+mianfenji.png
+size: 782,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfenji1
+  rotate: true
+  xy: 258, 12
+  size: 264, 205
+  orig: 266, 208
+  offset: 1, 2
+  index: -1
+mianfenji2
+  rotate: false
+  xy: 465, 2
+  size: 181, 99
+  orig: 181, 99
+  offset: 0, 0
+  index: -1
+mianfenji3
+  rotate: true
+  xy: 2, 8
+  size: 268, 254
+  orig: 270, 282
+  offset: 1, 1
+  index: -1
+mianfenji4
+  rotate: false
+  xy: 465, 103
+  size: 169, 173
+  orig: 173, 175
+  offset: 2, 1
+  index: -1
+mianfenji5
+  rotate: true
+  xy: 636, 174
+  size: 102, 144
+  orig: 104, 147
+  offset: 1, 1
+  index: -1
+mianfenji6
+  rotate: false
+  xy: 648, 82
+  size: 92, 90
+  orig: 94, 92
+  offset: 1, 1
+  index: -1
+mianfenji7
+  rotate: false
+  xy: 648, 8
+  size: 72, 72
+  orig: 74, 74
+  offset: 1, 1
+  index: -1

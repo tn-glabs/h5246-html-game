@@ -1,0 +1,27 @@
+
+shengjianggang.png
+size: 530,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+litai
+  rotate: true
+  xy: 2, 103
+  size: 257, 440
+  orig: 259, 442
+  offset: 1, 1
+  index: -1
+shanggang
+  rotate: false
+  xy: 444, 2
+  size: 84, 358
+  orig: 90, 358
+  offset: 6, 0
+  index: -1
+xiagang
+  rotate: true
+  xy: 2, 16
+  size: 85, 358
+  orig: 90, 358
+  offset: 5, 0
+  index: -1

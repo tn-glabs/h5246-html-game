@@ -1,0 +1,41 @@
+
+lipao2.png
+size: 217,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lipao2-1
+  rotate: false
+  xy: 163, 41
+  size: 52, 49
+  orig: 54, 51
+  offset: 1, 1
+  index: -1
+lipao2-2
+  rotate: false
+  xy: 2, 3
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+lipao2-3
+  rotate: false
+  xy: 108, 40
+  size: 53, 50
+  orig: 55, 52
+  offset: 1, 1
+  index: -1
+xian1
+  rotate: true
+  xy: 108, 2
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+xingxing1
+  rotate: false
+  xy: 174, 2
+  size: 39, 37
+  orig: 41, 39
+  offset: 1, 1
+  index: -1

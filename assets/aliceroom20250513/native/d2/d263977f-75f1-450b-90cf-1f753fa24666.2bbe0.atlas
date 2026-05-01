@@ -1,0 +1,48 @@
+
+ailisilabatu.png
+size: 566,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuzi
+  rotate: true
+  xy: 2, 2
+  size: 310, 400
+  orig: 310, 400
+  offset: 0, 0
+  index: -1
+yinfu1
+  rotate: false
+  xy: 487, 14
+  size: 71, 96
+  orig: 71, 96
+  offset: 0, 0
+  index: -1
+yinfu2
+  rotate: false
+  xy: 404, 211
+  size: 122, 101
+  orig: 123, 101
+  offset: 1, 0
+  index: -1
+yinfu3
+  rotate: false
+  xy: 404, 5
+  size: 81, 105
+  orig: 82, 107
+  offset: 1, 1
+  index: -1
+yinfu4
+  rotate: false
+  xy: 505, 125
+  size: 59, 84
+  orig: 60, 85
+  offset: 0, 1
+  index: -1
+yinfu5
+  rotate: false
+  xy: 404, 112
+  size: 99, 97
+  orig: 100, 98
+  offset: 0, 0
+  index: -1

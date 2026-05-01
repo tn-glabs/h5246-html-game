@@ -1,0 +1,41 @@
+
+youling-wsj.png
+size: 1469,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fazhang
+  rotate: false
+  xy: 1190, 20
+  size: 277, 277
+  orig: 299, 299
+  offset: 10, 12
+  index: -1
+maomaogui1
+  rotate: false
+  xy: 608, 5
+  size: 291, 292
+  orig: 291, 292
+  offset: 0, 0
+  index: -1
+maomaogui2
+  rotate: false
+  xy: 304, 11
+  size: 302, 286
+  orig: 302, 286
+  offset: 0, 0
+  index: -1
+xiaomaogui
+  rotate: true
+  xy: 2, 2
+  size: 295, 300
+  orig: 295, 300
+  offset: 0, 0
+  index: -1
+youling-fazhang
+  rotate: true
+  xy: 901, 7
+  size: 290, 287
+  orig: 290, 287
+  offset: 0, 0
+  index: -1

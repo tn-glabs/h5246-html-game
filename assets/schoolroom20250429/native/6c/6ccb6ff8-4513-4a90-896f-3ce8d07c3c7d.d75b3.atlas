@@ -1,0 +1,48 @@
+
+jingkuang.png
+size: 723,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 333, 32
+  size: 203, 252
+  orig: 205, 254
+  offset: 1, 1
+  index: -1
+mao
+  rotate: false
+  xy: 538, 104
+  size: 183, 180
+  orig: 183, 180
+  offset: 0, 0
+  index: -1
+waikuang
+  rotate: true
+  xy: 2, 2
+  size: 282, 329
+  orig: 284, 331
+  offset: 1, 1
+  index: -1
+xingxing1
+  rotate: false
+  xy: 590, 66
+  size: 37, 36
+  orig: 39, 38
+  offset: 1, 1
+  index: -1
+xingxing2
+  rotate: false
+  xy: 538, 53
+  size: 50, 49
+  orig: 52, 51
+  offset: 1, 1
+  index: -1
+xingxing3
+  rotate: false
+  xy: 629, 68
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,83 @@
+
+xiaohuangniao.png
+size: 194,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaohuang-Z
+  rotate: true
+  xy: 123, 2
+  size: 61, 67
+  orig: 64, 69
+  offset: 2, 1
+  index: -1
+xiaohuang-shenti
+  rotate: true
+  xy: 2, 142
+  size: 125, 120
+  orig: 125, 120
+  offset: 0, 0
+  index: -1
+xiaohuang-sj
+  rotate: true
+  xy: 124, 152
+  size: 45, 38
+  orig: 47, 40
+  offset: 1, 1
+  index: -1
+xiaohuang-tou
+  rotate: true
+  xy: 2, 18
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+xiaohuang-yan
+  rotate: true
+  xy: 123, 65
+  size: 75, 22
+  orig: 77, 25
+  offset: 1, 1
+  index: -1
+xiaohuang-yan1
+  rotate: false
+  xy: 2, 3
+  size: 82, 13
+  orig: 84, 16
+  offset: 1, 2
+  index: -1
+xiaohuang-youjiao
+  rotate: false
+  xy: 165, 241
+  size: 26, 26
+  orig: 30, 28
+  offset: 2, 1
+  index: -1
+xiaohuang-youshou
+  rotate: false
+  xy: 147, 83
+  size: 39, 67
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+xiaohuang-zui
+  rotate: true
+  xy: 164, 166
+  size: 31, 28
+  orig: 33, 30
+  offset: 1, 1
+  index: -1
+xiaohuang-zuojiao
+  rotate: false
+  xy: 165, 213
+  size: 26, 26
+  orig: 30, 28
+  offset: 2, 1
+  index: -1
+xiaohuang-zuoshou
+  rotate: false
+  xy: 124, 199
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1

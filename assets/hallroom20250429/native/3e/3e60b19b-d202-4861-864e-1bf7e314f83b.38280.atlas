@@ -1,0 +1,48 @@
+
+fazhanglanzi.png
+size: 551,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fazhang1
+  rotate: true
+  xy: 247, 225
+  size: 160, 267
+  orig: 166, 273
+  offset: 3, 3
+  index: -1
+fazhang2
+  rotate: true
+  xy: 330, 387
+  size: 142, 219
+  orig: 149, 225
+  offset: 4, 3
+  index: -1
+fazhang3
+  rotate: true
+  xy: 2, 242
+  size: 144, 243
+  orig: 150, 248
+  offset: 3, 1
+  index: -1
+fazhang4
+  rotate: true
+  xy: 2, 70
+  size: 170, 240
+  orig: 182, 248
+  offset: 2, 6
+  index: -1
+lanzihou
+  rotate: false
+  xy: 244, 2
+  size: 289, 221
+  orig: 295, 225
+  offset: 3, 1
+  index: -1
+lanziqian
+  rotate: false
+  xy: 2, 388
+  size: 326, 141
+  orig: 332, 146
+  offset: 3, 3
+  index: -1

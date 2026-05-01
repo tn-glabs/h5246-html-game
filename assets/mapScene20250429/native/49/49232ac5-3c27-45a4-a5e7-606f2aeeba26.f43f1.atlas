@@ -1,0 +1,13 @@
+
+wansheng-gui2.png
+size: 135,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gui5
+  rotate: false
+  xy: 2, 2
+  size: 131, 134
+  orig: 133, 136
+  offset: 1, 1
+  index: -1

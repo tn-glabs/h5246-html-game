@@ -1,0 +1,20 @@
+
+datiqin.png
+size: 463,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datiqin1
+  rotate: true
+  xy: 2, 2
+  size: 114, 283
+  orig: 114, 283
+  offset: 0, 0
+  index: -1
+datiqingong1
+  rotate: true
+  xy: 287, 23
+  size: 93, 174
+  orig: 93, 186
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+shuijingqiu.png
+size: 2014,1127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feitang
+  rotate: false
+  xy: 862, 824
+  size: 850, 301
+  orig: 850, 301
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: true
+  xy: 880, 7
+  size: 205, 216
+  orig: 215, 226
+  offset: 5, 5
+  index: -1
+guang2
+  rotate: true
+  xy: 880, 7
+  size: 205, 216
+  orig: 215, 226
+  offset: 5, 5
+  index: -1
+guang3
+  rotate: false
+  xy: 1742, 287
+  size: 193, 201
+  orig: 203, 211
+  offset: 5, 5
+  index: -1
+guang4
+  rotate: true
+  xy: 1284, 9
+  size: 211, 224
+  orig: 221, 234
+  offset: 5, 5
+  index: -1
+guang5
+  rotate: false
+  xy: 1098, 3
+  size: 184, 209
+  orig: 194, 219
+  offset: 5, 5
+  index: -1
+guangdian
+  rotate: false
+  xy: 2, 440
+  size: 858, 685
+  orig: 874, 701
+  offset: 8, 8
+  index: -1
+guangquan-1
+  rotate: false
+  xy: 2, 2
+  size: 437, 436
+  orig: 443, 444
+  offset: 3, 4
+  index: -1
+guangquan-2
+  rotate: false
+  xy: 2, 2
+  size: 437, 436
+  orig: 443, 444
+  offset: 3, 4
+  index: -1
+guangquan-3
+  rotate: false
+  xy: 441, 2
+  size: 437, 436
+  orig: 443, 444
+  offset: 3, 4
+  index: -1
+hou-1
+  rotate: false
+  xy: 1678, 490
+  size: 321, 321
+  orig: 323, 323
+  offset: 1, 1
+  index: -1
+hou-2
+  rotate: false
+  xy: 880, 214
+  size: 321, 321
+  orig: 323, 323
+  offset: 1, 1
+  index: -1
+hou-3
+  rotate: false
+  xy: 1203, 222
+  size: 313, 313
+  orig: 315, 315
+  offset: 1, 1
+  index: -1
+mofazhen
+  rotate: false
+  xy: 862, 537
+  size: 814, 285
+  orig: 825, 296
+  offset: 5, 6
+  index: -1
+qianpian
+  rotate: false
+  xy: 1714, 813
+  size: 298, 312
+  orig: 300, 314
+  offset: 1, 1
+  index: -1
+zhong-1
+  rotate: false
+  xy: 1518, 258
+  size: 222, 230
+  orig: 224, 232
+  offset: 1, 1
+  index: -1
+zhong-2
+  rotate: false
+  xy: 1709, 108
+  size: 133, 148
+  orig: 135, 150
+  offset: 1, 1
+  index: -1
+zhong-3
+  rotate: false
+  xy: 1518, 91
+  size: 189, 165
+  orig: 195, 171
+  offset: 3, 3
+  index: -1

@@ -1,0 +1,27 @@
+
+xiaoyouling.png
+size: 431,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youling1
+  rotate: true
+  xy: 157, 2
+  size: 164, 137
+  orig: 164, 137
+  offset: 0, 0
+  index: -1
+youling2
+  rotate: false
+  xy: 2, 8
+  size: 153, 158
+  orig: 153, 158
+  offset: 0, 0
+  index: -1
+youling3
+  rotate: true
+  xy: 296, 17
+  size: 149, 133
+  orig: 149, 133
+  offset: 0, 0
+  index: -1

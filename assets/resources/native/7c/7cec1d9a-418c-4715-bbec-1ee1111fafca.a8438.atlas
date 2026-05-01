@@ -1,0 +1,27 @@
+
+gu.png
+size: 179,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gubang1
+  rotate: false
+  xy: 2, 130
+  size: 73, 23
+  orig: 73, 23
+  offset: 0, 0
+  index: -1
+gubang2
+  rotate: false
+  xy: 77, 128
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+jungu
+  rotate: true
+  xy: 2, 2
+  size: 124, 175
+  orig: 125, 175
+  offset: 0, 0
+  index: -1

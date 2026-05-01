@@ -1,0 +1,48 @@
+
+yinxiang.png
+size: 172,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laba
+  rotate: false
+  xy: 2, 44
+  size: 96, 71
+  orig: 98, 73
+  offset: 1, 1
+  index: -1
+yinfu1
+  rotate: false
+  xy: 103, 128
+  size: 61, 86
+  orig: 67, 92
+  offset: 3, 3
+  index: -1
+yinfu2
+  rotate: false
+  xy: 2, 117
+  size: 99, 97
+  orig: 101, 99
+  offset: 1, 1
+  index: -1
+yinfu3
+  rotate: false
+  xy: 103, 39
+  size: 48, 87
+  orig: 55, 94
+  offset: 3, 4
+  index: -1
+yinxiang
+  rotate: false
+  xy: 2, 216
+  size: 168, 129
+  orig: 170, 131
+  offset: 1, 1
+  index: -1
+yinxiangon
+  rotate: false
+  xy: 2, 2
+  size: 68, 40
+  orig: 71, 43
+  offset: 1, 1
+  index: -1

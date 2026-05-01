@@ -1,0 +1,34 @@
+
+wuya.png
+size: 414,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 326, 2
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 326, 83
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+wuya1
+  rotate: false
+  xy: 2, 2
+  size: 160, 162
+  orig: 160, 162
+  offset: 0, 0
+  index: -1
+wuya2
+  rotate: false
+  xy: 164, 2
+  size: 160, 162
+  orig: 160, 162
+  offset: 0, 0
+  index: -1

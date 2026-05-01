@@ -1,0 +1,328 @@
+
+xiaoma.png
+size: 1444,1537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1小马素体/M10001
+  rotate: false
+  xy: 1152, 183
+  size: 198, 218
+  orig: 198, 218
+  offset: 0, 0
+  index: -1
+1小马素体/M10001-1
+  rotate: false
+  xy: 1352, 347
+  size: 72, 120
+  orig: 72, 120
+  offset: 0, 0
+  index: -1
+1小马素体/M10001-10
+  rotate: true
+  xy: 2, 2
+  size: 89, 132
+  orig: 89, 132
+  offset: 0, 0
+  index: -1
+1小马素体/M10001-11
+  rotate: false
+  xy: 597, 14
+  size: 125, 139
+  orig: 125, 139
+  offset: 0, 0
+  index: -1
+1小马素体/M10001-12
+  rotate: false
+  xy: 266, 8
+  size: 129, 83
+  orig: 129, 83
+  offset: 0, 0
+  index: -1
+1小马素体/M10001-2
+  rotate: false
+  xy: 841, 396
+  size: 279, 208
+  orig: 279, 208
+  offset: 0, 0
+  index: -1
+1小马素体/M10001-3
+  rotate: false
+  xy: 741, 685
+  size: 72, 135
+  orig: 72, 135
+  offset: 0, 0
+  index: -1
+1小马素体/M10001-4
+  rotate: true
+  xy: 1122, 403
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+1小马素体/M10001-5
+  rotate: true
+  xy: 1122, 507
+  size: 72, 135
+  orig: 72, 135
+  offset: 0, 0
+  index: -1
+1小马素体/M10001-6
+  rotate: true
+  xy: 1266, 79
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+1小马素体/M10001-7
+  rotate: false
+  xy: 479, 13
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+1小马素体/M10001-8
+  rotate: true
+  xy: 136, 2
+  size: 89, 128
+  orig: 89, 128
+  offset: 0, 0
+  index: -1
+1小马素体/M10001-9
+  rotate: false
+  xy: 724, 14
+  size: 115, 139
+  orig: 115, 139
+  offset: 0, 0
+  index: -1
+1小马素体/M110003
+  rotate: false
+  xy: 566, 1015
+  size: 33, 20
+  orig: 156, 110
+  offset: 48, 39
+  index: -1
+1小马素体/M110005
+  rotate: true
+  xy: 1429, 1504
+  size: 31, 13
+  orig: 156, 110
+  offset: 50, 48
+  index: -1
+1小马素体/M110011
+  rotate: false
+  xy: 566, 1037
+  size: 33, 25
+  orig: 156, 110
+  offset: 51, 32
+  index: -1
+1小马素体/M80017
+  rotate: false
+  xy: 1184, 581
+  size: 223, 173
+  orig: 223, 173
+  offset: 0, 0
+  index: -1
+1小马素体/happy
+  rotate: false
+  xy: 566, 822
+  size: 223, 173
+  orig: 223, 173
+  offset: 0, 0
+  index: -1
+1小马素体/happy1
+  rotate: true
+  xy: 1429, 1466
+  size: 36, 10
+  orig: 156, 110
+  offset: 48, 45
+  index: -1
+1小马素体/shengqi
+  rotate: true
+  xy: 566, 597
+  size: 223, 173
+  orig: 223, 173
+  offset: 0, 0
+  index: -1
+1小马素体/shengqi1
+  rotate: false
+  xy: 566, 1064
+  size: 36, 19
+  orig: 156, 110
+  offset: 50, 37
+  index: -1
+1小马素体/shengqi2
+  rotate: true
+  xy: 397, 8
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+嘴巴/M110001
+  rotate: false
+  xy: 1266, 469
+  size: 156, 110
+  orig: 156, 110
+  offset: 0, 0
+  index: -1
+头发/M50000
+  rotate: false
+  xy: 608, 997
+  size: 591, 538
+  orig: 591, 538
+  offset: 0, 0
+  index: -1
+头发/M50000-1
+  rotate: false
+  xy: 608, 997
+  size: 591, 538
+  orig: 591, 538
+  offset: 0, 0
+  index: -1
+头发/M50000-2
+  rotate: false
+  xy: 608, 997
+  size: 591, 538
+  orig: 591, 538
+  offset: 0, 0
+  index: -1
+头发/M50000-3
+  rotate: false
+  xy: 608, 997
+  size: 591, 538
+  orig: 591, 538
+  offset: 0, 0
+  index: -1
+头饰/M60000
+  rotate: false
+  xy: 2, 583
+  size: 562, 500
+  orig: 562, 500
+  offset: 0, 0
+  index: -1
+尾巴/M70000
+  rotate: false
+  xy: 437, 155
+  size: 380, 426
+  orig: 380, 426
+  offset: 0, 0
+  index: -1
+犄角/M30000
+  rotate: true
+  xy: 819, 606
+  size: 389, 363
+  orig: 389, 363
+  offset: 0, 0
+  index: -1
+眼睛/M80001
+  rotate: false
+  xy: 1184, 756
+  size: 223, 173
+  orig: 223, 173
+  offset: 0, 0
+  index: -1
+翅膀/M20000-1
+  rotate: true
+  xy: 2, 93
+  size: 488, 433
+  orig: 488, 433
+  offset: 0, 0
+  index: -1
+翅膀/M20000
+  rotate: true
+  xy: 2, 93
+  size: 488, 433
+  orig: 488, 433
+  offset: 0, 0
+  index: -1
+衣服/M90000
+  rotate: false
+  xy: 2, 1085
+  size: 604, 450
+  orig: 604, 450
+  offset: 0, 0
+  index: -1
+衣服/M90000-1
+  rotate: true
+  xy: 1201, 931
+  size: 176, 224
+  orig: 176, 224
+  offset: 0, 0
+  index: -1
+衣服/M90000-2
+  rotate: true
+  xy: 1201, 1109
+  size: 177, 225
+  orig: 177, 225
+  offset: 0, 0
+  index: -1
+颈饰/M40000
+  rotate: true
+  xy: 1201, 1288
+  size: 247, 226
+  orig: 247, 226
+  offset: 0, 0
+  index: -1
+马蹄/M100000
+  rotate: true
+  xy: 1054, 5
+  size: 164, 210
+  orig: 164, 210
+  offset: 0, 0
+  index: -1
+马蹄/M100000-1
+  rotate: false
+  xy: 819, 171
+  size: 165, 223
+  orig: 165, 223
+  offset: 0, 0
+  index: -1
+马蹄/M100000-2
+  rotate: true
+  xy: 841, 4
+  size: 165, 211
+  orig: 165, 211
+  offset: 0, 0
+  index: -1
+马蹄/M100000-3
+  rotate: false
+  xy: 986, 171
+  size: 164, 223
+  orig: 164, 223
+  offset: 0, 0
+  index: -1
+马蹄/M100000-4
+  rotate: false
+  xy: 1441, 1501
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+头饰/M60000-1
+  rotate: false
+  xy: 1441, 1501
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+身体图案/M120000
+  rotate: false
+  xy: 1441, 1501
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+马蹄/M100000-5
+  rotate: false
+  xy: 1441, 1501
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+马蹄/M100000-6
+  rotate: false
+  xy: 1441, 1501
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

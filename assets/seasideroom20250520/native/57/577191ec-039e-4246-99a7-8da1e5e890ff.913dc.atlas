@@ -1,0 +1,97 @@
+
+jingyushang.png
+size: 2461,843
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caihong
+  rotate: true
+  xy: 1844, 301
+  size: 215, 335
+  orig: 324, 423
+  offset: 0, 0
+  index: -1
+hailang2
+  rotate: true
+  xy: 2336, 490
+  size: 351, 70
+  orig: 354, 73
+  offset: 2, 2
+  index: -1
+jingyuqian
+  rotate: false
+  xy: 2, 40
+  size: 1840, 801
+  orig: 1840, 801
+  offset: 0, 0
+  index: -1
+kaixin
+  rotate: true
+  xy: 2057, 16
+  size: 211, 206
+  orig: 213, 207
+  offset: 1, 1
+  index: -1
+shangxin
+  rotate: false
+  xy: 1844, 84
+  size: 211, 215
+  orig: 213, 217
+  offset: 1, 1
+  index: -1
+shou
+  rotate: false
+  xy: 1844, 518
+  size: 490, 323
+  orig: 490, 323
+  offset: 0, 0
+  index: -1
+yanjiao
+  rotate: true
+  xy: 2181, 229
+  size: 287, 137
+  orig: 289, 139
+  offset: 1, 1
+  index: -1
+yanjing1
+  rotate: true
+  xy: 2320, 305
+  size: 183, 99
+  orig: 186, 101
+  offset: 2, 1
+  index: -1
+yanjing2
+  rotate: false
+  xy: 2265, 2
+  size: 194, 202
+  orig: 196, 205
+  offset: 1, 1
+  index: -1
+yanlei
+  rotate: false
+  xy: 1844, 10
+  size: 102, 72
+  orig: 105, 74
+  offset: 1, 1
+  index: -1
+yinfu1
+  rotate: true
+  xy: 2057, 238
+  size: 61, 86
+  orig: 67, 92
+  offset: 3, 3
+  index: -1
+yinfu2
+  rotate: false
+  xy: 2320, 206
+  size: 99, 97
+  orig: 101, 99
+  offset: 1, 1
+  index: -1
+yinfu3
+  rotate: false
+  xy: 2408, 754
+  size: 48, 87
+  orig: 55, 94
+  offset: 3, 4
+  index: -1

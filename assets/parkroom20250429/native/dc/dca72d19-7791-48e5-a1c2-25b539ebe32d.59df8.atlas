@@ -1,0 +1,41 @@
+
+qiuqian.png
+size: 280,796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiuqian
+  rotate: true
+  xy: 2, 418
+  size: 376, 208
+  orig: 379, 211
+  offset: 1, 2
+  index: -1
+shengf
+  rotate: false
+  xy: 2, 2
+  size: 273, 122
+  orig: 276, 124
+  offset: 2, 1
+  index: -1
+shengl
+  rotate: false
+  xy: 246, 358
+  size: 32, 436
+  orig: 32, 436
+  offset: 0, 0
+  index: -1
+shengr
+  rotate: false
+  xy: 212, 324
+  size: 32, 470
+  orig: 32, 470
+  offset: 0, 0
+  index: -1
+xue
+  rotate: true
+  xy: 2, 126
+  size: 290, 180
+  orig: 292, 182
+  offset: 1, 1
+  index: -1

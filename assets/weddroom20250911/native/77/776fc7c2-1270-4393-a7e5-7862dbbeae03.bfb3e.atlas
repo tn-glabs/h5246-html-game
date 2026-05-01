@@ -1,0 +1,20 @@
+
+qiuqian-hunli.png
+size: 418,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 34
+  size: 405, 123
+  orig: 407, 126
+  offset: 1, 2
+  index: -1
+sheng
+  rotate: true
+  xy: 2, 2
+  size: 30, 414
+  orig: 30, 414
+  offset: 0, 0
+  index: -1

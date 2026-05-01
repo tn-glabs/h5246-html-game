@@ -1,0 +1,76 @@
+
+huaduoqian.png
+size: 252,658
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai1
+  rotate: true
+  xy: 147, 364
+  size: 123, 97
+  orig: 125, 100
+  offset: 1, 2
+  index: -1
+bai2
+  rotate: true
+  xy: 2, 373
+  size: 137, 143
+  orig: 139, 145
+  offset: 1, 1
+  index: -1
+blue1
+  rotate: false
+  xy: 146, 154
+  size: 104, 93
+  orig: 106, 95
+  offset: 1, 1
+  index: -1
+blue2
+  rotate: false
+  xy: 2, 239
+  size: 142, 132
+  orig: 144, 134
+  offset: 1, 1
+  index: -1
+huagan1
+  rotate: true
+  xy: 2, 512
+  size: 144, 176
+  orig: 144, 176
+  offset: 0, 0
+  index: -1
+huagan2
+  rotate: false
+  xy: 180, 489
+  size: 68, 167
+  orig: 68, 167
+  offset: 0, 0
+  index: -1
+purple1
+  rotate: true
+  xy: 146, 249
+  size: 113, 96
+  orig: 115, 98
+  offset: 1, 1
+  index: -1
+purple2
+  rotate: true
+  xy: 134, 30
+  size: 122, 112
+  orig: 124, 114
+  offset: 1, 1
+  index: -1
+shuixian1
+  rotate: false
+  xy: 2, 2
+  size: 112, 107
+  orig: 114, 109
+  offset: 1, 1
+  index: -1
+shuixian2
+  rotate: false
+  xy: 2, 111
+  size: 130, 126
+  orig: 132, 128
+  offset: 1, 1
+  index: -1

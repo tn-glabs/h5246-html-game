@@ -1,0 +1,69 @@
+
+motianlun.png
+size: 999,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lunzi
+  rotate: true
+  xy: 549, 58
+  size: 297, 294
+  orig: 297, 294
+  offset: 0, 0
+  index: -1
+qiqiu1
+  rotate: false
+  xy: 845, 48
+  size: 75, 180
+  orig: 75, 180
+  offset: 0, 0
+  index: -1
+qiqiu2
+  rotate: false
+  xy: 845, 48
+  size: 75, 180
+  orig: 75, 180
+  offset: 0, 0
+  index: -1
+qiqiu3
+  rotate: false
+  xy: 922, 48
+  size: 75, 180
+  orig: 75, 180
+  offset: 0, 0
+  index: -1
+youleyuan
+  rotate: false
+  xy: 2, 2
+  size: 545, 353
+  orig: 551, 355
+  offset: 1, 1
+  index: -1
+zuowei1
+  rotate: true
+  xy: 845, 230
+  size: 125, 144
+  orig: 127, 146
+  offset: 1, 1
+  index: -1
+zuowei2
+  rotate: true
+  xy: 845, 230
+  size: 125, 144
+  orig: 127, 146
+  offset: 1, 1
+  index: -1
+zuowei3
+  rotate: true
+  xy: 845, 230
+  size: 125, 144
+  orig: 127, 146
+  offset: 1, 1
+  index: -1
+zuowei4
+  rotate: true
+  xy: 845, 230
+  size: 125, 144
+  orig: 127, 146
+  offset: 1, 1
+  index: -1

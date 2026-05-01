@@ -1,0 +1,20 @@
+
+huakuang.png
+size: 313,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huakuang
+  rotate: false
+  xy: 2, 2
+  size: 222, 170
+  orig: 222, 172
+  offset: 0, 1
+  index: -1
+youling
+  rotate: true
+  xy: 226, 74
+  size: 98, 85
+  orig: 98, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+huatong.png
+size: 471,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+31768
+  rotate: true
+  xy: 2, 62
+  size: 136, 365
+  orig: 136, 365
+  offset: 0, 0
+  index: -1
+yinfu1
+  rotate: true
+  xy: 227, 8
+  size: 52, 94
+  orig: 54, 96
+  offset: 1, 1
+  index: -1
+yinfu2
+  rotate: true
+  xy: 369, 20
+  size: 86, 100
+  orig: 88, 102
+  offset: 1, 1
+  index: -1
+yinfu3
+  rotate: true
+  xy: 2, 6
+  size: 54, 113
+  orig: 56, 115
+  offset: 1, 1
+  index: -1
+yinfu4
+  rotate: false
+  xy: 369, 108
+  size: 100, 90
+  orig: 102, 92
+  offset: 1, 1
+  index: -1
+yinfu5
+  rotate: true
+  xy: 117, 2
+  size: 58, 108
+  orig: 60, 110
+  offset: 1, 1
+  index: -1

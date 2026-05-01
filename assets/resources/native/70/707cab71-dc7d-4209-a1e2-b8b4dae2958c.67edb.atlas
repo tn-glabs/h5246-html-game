@@ -1,0 +1,41 @@
+
+mofaguo.png
+size: 445,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guo
+  rotate: false
+  xy: 186, 140
+  size: 257, 157
+  orig: 259, 159
+  offset: 1, 1
+  index: -1
+guodi
+  rotate: true
+  xy: 2, 62
+  size: 235, 182
+  orig: 241, 188
+  offset: 3, 3
+  index: -1
+jiaoban
+  rotate: true
+  xy: 306, 35
+  size: 103, 115
+  orig: 109, 121
+  offset: 3, 3
+  index: -1
+yanwu1
+  rotate: false
+  xy: 191, 13
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+yaoshui
+  rotate: false
+  xy: 2, 2
+  size: 187, 58
+  orig: 187, 58
+  offset: 0, 0
+  index: -1

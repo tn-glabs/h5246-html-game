@@ -1,0 +1,20 @@
+
+mache-hou.png
+size: 1054,646
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chehou
+  rotate: false
+  xy: 2, 2
+  size: 922, 642
+  orig: 924, 644
+  offset: 1, 1
+  index: -1
+jiangsheng1
+  rotate: true
+  xy: 926, 206
+  size: 438, 126
+  orig: 438, 126
+  offset: 0, 0
+  index: -1

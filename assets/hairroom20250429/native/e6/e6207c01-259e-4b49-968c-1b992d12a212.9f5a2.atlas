@@ -1,0 +1,41 @@
+
+liwuhe.png
+size: 837,421
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lihe
+  rotate: false
+  xy: 135, 268
+  size: 170, 151
+  orig: 172, 153
+  offset: 1, 1
+  index: -1
+lihegai
+  rotate: false
+  xy: 307, 268
+  size: 172, 151
+  orig: 174, 153
+  offset: 1, 1
+  index: -1
+liheguang1
+  rotate: false
+  xy: 2, 336
+  size: 131, 83
+  orig: 134, 86
+  offset: 2, 1
+  index: -1
+liheguang2
+  rotate: false
+  xy: 2, 11
+  size: 541, 255
+  orig: 541, 255
+  offset: 0, 0
+  index: -1
+liheguang3
+  rotate: true
+  xy: 545, 2
+  size: 417, 290
+  orig: 417, 290
+  offset: 0, 0
+  index: -1

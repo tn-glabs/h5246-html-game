@@ -1,0 +1,55 @@
+
+meifadian.png
+size: 760,557
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianchuifeng
+  rotate: false
+  xy: 464, 232
+  size: 284, 323
+  orig: 286, 325
+  offset: 1, 1
+  index: -1
+feng1
+  rotate: false
+  xy: 521, 29
+  size: 55, 64
+  orig: 57, 67
+  offset: 1, 2
+  index: -1
+feng2
+  rotate: true
+  xy: 396, 2
+  size: 91, 123
+  orig: 93, 125
+  offset: 1, 1
+  index: -1
+feng3
+  rotate: false
+  xy: 275, 26
+  size: 119, 157
+  orig: 121, 159
+  offset: 1, 1
+  index: -1
+jiandaob
+  rotate: true
+  xy: 2, 2
+  size: 181, 271
+  orig: 183, 273
+  offset: 1, 1
+  index: -1
+jiandaof
+  rotate: true
+  xy: 464, 95
+  size: 135, 294
+  orig: 137, 297
+  offset: 1, 1
+  index: -1
+jianzhu
+  rotate: false
+  xy: 2, 185
+  size: 460, 370
+  orig: 462, 372
+  offset: 1, 1
+  index: -1

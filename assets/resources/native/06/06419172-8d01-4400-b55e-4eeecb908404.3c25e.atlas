@@ -1,0 +1,83 @@
+
+kaola.png
+size: 696,193
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoqing1
+  rotate: true
+  xy: 578, 135
+  size: 56, 116
+  orig: 58, 118
+  offset: 1, 1
+  index: -1
+biaoqing2
+  rotate: true
+  xy: 578, 78
+  size: 55, 109
+  orig: 57, 111
+  offset: 1, 1
+  index: -1
+biaoqing3
+  rotate: true
+  xy: 208, 2
+  size: 56, 116
+  orig: 58, 118
+  offset: 1, 1
+  index: -1
+erduo1
+  rotate: false
+  xy: 360, 73
+  size: 123, 118
+  orig: 129, 126
+  offset: 4, 4
+  index: -1
+erduo2
+  rotate: false
+  xy: 208, 60
+  size: 150, 131
+  orig: 156, 134
+  offset: 2, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 485, 84
+  size: 91, 107
+  orig: 91, 107
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 485, 28
+  size: 54, 71
+  orig: 56, 75
+  offset: 0, 2
+  index: -1
+shui1
+  rotate: false
+  xy: 558, 5
+  size: 97, 71
+  orig: 99, 73
+  offset: 1, 1
+  index: -1
+shui2
+  rotate: false
+  xy: 326, 2
+  size: 63, 56
+  orig: 65, 58
+  offset: 1, 1
+  index: -1
+shui3
+  rotate: false
+  xy: 391, 2
+  size: 77, 69
+  orig: 79, 71
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 2, 9
+  size: 182, 204
+  orig: 187, 207
+  offset: 1, 2
+  index: -1

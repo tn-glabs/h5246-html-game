@@ -1,0 +1,20 @@
+
+miluhou.png
+size: 783,403
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hou
+  rotate: false
+  xy: 2, 2
+  size: 661, 399
+  orig: 663, 401
+  offset: 1, 1
+  index: -1
+lianzihou
+  rotate: true
+  xy: 665, 41
+  size: 360, 116
+  orig: 360, 116
+  offset: 0, 0
+  index: -1

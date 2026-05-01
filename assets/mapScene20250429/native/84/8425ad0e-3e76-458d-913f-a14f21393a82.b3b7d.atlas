@@ -1,0 +1,69 @@
+
+tianpindian.png
+size: 662,367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou1
+  rotate: false
+  xy: 584, 2
+  size: 45, 51
+  orig: 47, 53
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: false
+  xy: 584, 2
+  size: 45, 51
+  orig: 47, 53
+  offset: 1, 1
+  index: -1
+tianpindian
+  rotate: false
+  xy: 2, 3
+  size: 376, 362
+  orig: 379, 364
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 380, 160
+  size: 205, 245
+  orig: 207, 247
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: false
+  xy: 380, 11
+  size: 202, 147
+  orig: 202, 147
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 584, 55
+  size: 59, 51
+  orig: 61, 53
+  offset: 1, 1
+  index: -1
+yanjing2
+  rotate: false
+  xy: 584, 108
+  size: 63, 50
+  orig: 65, 53
+  offset: 1, 1
+  index: -1
+zuiba1
+  rotate: false
+  xy: 627, 306
+  size: 27, 25
+  orig: 29, 27
+  offset: 1, 1
+  index: -1
+zuiba2
+  rotate: true
+  xy: 627, 333
+  size: 32, 33
+  orig: 34, 35
+  offset: 1, 1
+  index: -1

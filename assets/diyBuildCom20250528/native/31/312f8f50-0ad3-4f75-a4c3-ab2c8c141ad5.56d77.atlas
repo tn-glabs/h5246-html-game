@@ -1,0 +1,27 @@
+
+dalabaqian.png
+size: 409,331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dahao
+  rotate: true
+  xy: 2, 2
+  size: 327, 365
+  orig: 327, 365
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 369, 284
+  size: 38, 45
+  orig: 40, 47
+  offset: 1, 1
+  index: -1
+f2
+  rotate: false
+  xy: 369, 237
+  size: 38, 45
+  orig: 40, 47
+  offset: 1, 1
+  index: -1

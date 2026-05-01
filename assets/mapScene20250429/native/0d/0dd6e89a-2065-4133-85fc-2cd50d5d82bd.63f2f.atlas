@@ -1,0 +1,90 @@
+
+yanhua.png
+size: 336,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanhua1
+  rotate: false
+  xy: 242, 9
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1
+yanhua2-1
+  rotate: false
+  xy: 250, 81
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+yanhua2-2
+  rotate: true
+  xy: 2, 31
+  size: 126, 60
+  orig: 126, 60
+  offset: 0, 0
+  index: -1
+yanhua2-3
+  rotate: false
+  xy: 64, 49
+  size: 52, 108
+  orig: 52, 108
+  offset: 0, 0
+  index: -1
+yanhua2-4
+  rotate: true
+  xy: 174, 66
+  size: 91, 74
+  orig: 91, 74
+  offset: 0, 0
+  index: -1
+yanhua2-5
+  rotate: true
+  xy: 118, 54
+  size: 103, 54
+  orig: 103, 54
+  offset: 0, 0
+  index: -1
+yanhua3-1
+  rotate: true
+  xy: 299, 14
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+yanhua3-2
+  rotate: false
+  xy: 123, 2
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+yanhua3-3
+  rotate: true
+  xy: 64, 4
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+yanhua3-4
+  rotate: true
+  xy: 198, 3
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+yanhua3-5
+  rotate: true
+  xy: 162, 3
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+yanhua3-6
+  rotate: true
+  xy: 2, 3
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1

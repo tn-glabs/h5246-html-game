@@ -1,0 +1,48 @@
+
+jiandao.png
+size: 557,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiandao-blue1
+  rotate: true
+  xy: 396, 2
+  size: 147, 81
+  orig: 151, 84
+  offset: 2, 2
+  index: -1
+jiandao-blue2
+  rotate: true
+  xy: 216, 7
+  size: 142, 92
+  orig: 145, 96
+  offset: 2, 2
+  index: -1
+jiandao-pink1
+  rotate: true
+  xy: 310, 4
+  size: 145, 84
+  orig: 147, 87
+  offset: 1, 1
+  index: -1
+jiandao-pink2
+  rotate: true
+  xy: 2, 10
+  size: 139, 106
+  orig: 141, 108
+  offset: 1, 1
+  index: -1
+jiandao1
+  rotate: true
+  xy: 479, 8
+  size: 141, 76
+  orig: 143, 78
+  offset: 1, 1
+  index: -1
+jiandao2
+  rotate: true
+  xy: 110, 14
+  size: 135, 104
+  orig: 138, 106
+  offset: 1, 1
+  index: -1

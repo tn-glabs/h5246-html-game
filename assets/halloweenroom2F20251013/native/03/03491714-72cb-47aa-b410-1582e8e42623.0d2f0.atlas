@@ -1,0 +1,27 @@
+
+youlingmao.png
+size: 1066,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nanguaguo
+  rotate: false
+  xy: 2, 2
+  size: 885, 496
+  orig: 887, 498
+  offset: 1, 1
+  index: -1
+youlingmao
+  rotate: true
+  xy: 889, 278
+  size: 220, 175
+  orig: 220, 175
+  offset: 0, 0
+  index: -1
+youlingmaoshou
+  rotate: false
+  xy: 889, 208
+  size: 159, 68
+  orig: 224, 182
+  offset: 65, 0
+  index: -1

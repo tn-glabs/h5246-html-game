@@ -1,0 +1,76 @@
+
+xiantuanji.png
+size: 244,826
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feng1
+  rotate: false
+  xy: 155, 300
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+feng2
+  rotate: false
+  xy: 155, 253
+  size: 68, 45
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+feng3
+  rotate: false
+  xy: 155, 221
+  size: 59, 30
+  orig: 60, 30
+  offset: 1, 0
+  index: -1
+feng4
+  rotate: false
+  xy: 2, 2
+  size: 115, 34
+  orig: 116, 35
+  offset: 1, 1
+  index: -1
+jiqi
+  rotate: true
+  xy: 2, 348
+  size: 476, 237
+  orig: 476, 237
+  offset: 0, 0
+  index: -1
+maotuan
+  rotate: false
+  xy: 145, 111
+  size: 97, 108
+  orig: 97, 108
+  offset: 0, 0
+  index: -1
+maotuan2
+  rotate: true
+  xy: 134, 2
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1
+pingmu
+  rotate: false
+  xy: 2, 140
+  size: 141, 97
+  orig: 141, 97
+  offset: 0, 0
+  index: -1
+qianpian
+  rotate: false
+  xy: 2, 239
+  size: 151, 107
+  orig: 152, 107
+  offset: 1, 0
+  index: -1
+xian
+  rotate: true
+  xy: 2, 38
+  size: 100, 130
+  orig: 100, 130
+  offset: 0, 0
+  index: -1

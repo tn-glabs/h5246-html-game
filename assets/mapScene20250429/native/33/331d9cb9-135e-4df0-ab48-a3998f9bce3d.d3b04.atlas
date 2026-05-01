@@ -1,0 +1,90 @@
+
+wudaofang.png
+size: 661,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenzi
+  rotate: false
+  xy: 407, 207
+  size: 193, 135
+  orig: 193, 135
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 594, 75
+  size: 82, 65
+  orig: 84, 67
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: false
+  xy: 503, 163
+  size: 90, 42
+  orig: 92, 44
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 407, 17
+  size: 140, 110
+  orig: 142, 112
+  offset: 1, 1
+  index: -1
+tui1
+  rotate: true
+  xy: 407, 162
+  size: 43, 94
+  orig: 45, 96
+  offset: 1, 1
+  index: -1
+tui2
+  rotate: false
+  xy: 519, 17
+  size: 94, 51
+  orig: 96, 53
+  offset: 1, 1
+  index: -1
+wudaofang
+  rotate: false
+  xy: 2, 2
+  size: 403, 340
+  orig: 405, 342
+  offset: 1, 1
+  index: -1
+yinfu1
+  rotate: true
+  xy: 519, 70
+  size: 53, 63
+  orig: 55, 65
+  offset: 1, 1
+  index: -1
+yinfu2
+  rotate: true
+  xy: 602, 273
+  size: 69, 57
+  orig: 71, 59
+  offset: 1, 1
+  index: -1
+yinfu3
+  rotate: true
+  xy: 519, 125
+  size: 36, 73
+  orig: 38, 76
+  offset: 1, 2
+  index: -1
+yinfu4
+  rotate: true
+  xy: 602, 159
+  size: 66, 53
+  orig: 68, 55
+  offset: 1, 1
+  index: -1
+yinfu5
+  rotate: true
+  xy: 602, 227
+  size: 44, 57
+  orig: 46, 59
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,13 @@
+
+muma.png
+size: 379,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+muma2
+  rotate: false
+  xy: 2, 2
+  size: 375, 295
+  orig: 375, 296
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+dangaoji.png
+size: 935,982
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: true
+  xy: 720, 316
+  size: 316, 169
+  orig: 318, 171
+  offset: 1, 1
+  index: -1
+dangaojiqi1
+  rotate: false
+  xy: 2, 217
+  size: 716, 763
+  orig: 718, 765
+  offset: 1, 1
+  index: -1
+dangaojiqi2
+  rotate: false
+  xy: 720, 204
+  size: 179, 110
+  orig: 181, 114
+  offset: 1, 2
+  index: -1
+dangaojiqi3
+  rotate: false
+  xy: 698, 57
+  size: 203, 145
+  orig: 205, 147
+  offset: 1, 1
+  index: -1
+huangsedi
+  rotate: false
+  xy: 2, 2
+  size: 346, 213
+  orig: 349, 216
+  offset: 1, 2
+  index: -1
+lansedi
+  rotate: true
+  xy: 720, 634
+  size: 346, 213
+  orig: 349, 216
+  offset: 1, 2
+  index: -1
+lvsedi
+  rotate: false
+  xy: 350, 2
+  size: 346, 213
+  orig: 349, 216
+  offset: 1, 2
+  index: -1
